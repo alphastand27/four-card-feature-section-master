@@ -25,11 +25,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshots/Screenshot%20from%202024-09-08%2012-08-31.png)
-![](./screenshots/Screenshot%20from%202024-09-08%2012-08-39.png)
+![](./screenshots/Screenshot%20from%202024-09-08%2012-27-28.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [four4cardfeaturesection](https://four4cardfeaturesection.netlify.app/)
 
 ## My process
 
